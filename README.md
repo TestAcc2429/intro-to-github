@@ -17,3 +17,5 @@ If you want to propose some changes to this repo, you may *fork* it, modify the 
 Hello Git. Those are my changes
 
 Blabla.. new changes offline
+
+bla edit2
