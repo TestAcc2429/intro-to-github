@@ -19,3 +19,5 @@ Hello Git. Those are my changes
 Blabla.. new changes offline
 
 bla edit2
+
+online edit3
